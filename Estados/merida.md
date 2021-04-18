@@ -11,8 +11,37 @@
 
 ### Servicio Integrado de Protección civil
 
+* CICPC: 02742622855 
+* Cuerpo de Bomberos Aeronáuticos: 02742663612 
+* Cuerpo de Bomberos Estadales: 02742402997 
+* Cuerpo de Bomberos Forestales: 02742402997 
+* Cuerpo de Vigilancia y Tránsito Terrestre: 02742450455
+* Emergencias: 171
+* INPARQUES: 02742621356
+* IMPRADEM: 02742666922
+* Policía de Circulación Vial: 02742636722
+* Policía del Estado Mérida: 02742630462
+* Policía GRIM:
+  * 02744167566
+  * 02744147177
+* Protección Civil  Mérida:
+  * 166
+  * 02742663612  
+  * El Vigía: 
+    * 02752810166
+    * 02752811166
+  *  Ejido: 02742213973
+  *  Tovar: 0275271214
+* Bomberos Merida Mérida: 02742636396
+  * El Vigía: 02752810075
+  * Tovar: 0275271166
+
 ### Servicios Privados
 
+#### Ambulancias
+* Aeroambulancias Servisalud Dirección: Av. 2 Lora, Los Compadres, PB, 2,  Mérida, Mérida: 
+  * 02742637275
+  * 04166740923
 #### Clínicas
 * Centro Clínico Dr Marcial Ríos M CA, AV URDANETA CRUCE CON CL TULIPAN, Mérida: 02742629000
 * Centro de Especialidades Respiratorias CER,AV EZIO VALERI CC LOS CHAGUARAMOS LOCAL 33, ENTRADA A EDIFICIOS EL RODEO, URBANIZACIÓN LAS AMÉRICAS: 02742630764

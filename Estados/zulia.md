@@ -49,7 +49,43 @@ del trato o negociaciones entre las partes.
 #### Servicio Integrado de Protección civil
 
 ### Servicios Privados
-#### Clínicas privadas:
+
+#### Ambulancias
+* Ambulancias Zulia
+  * 04246674484
+  * 02617170925
+  * 04246674488
+* Ambulancias Paramezul: 
+  * 04146039171
+  * 04246039483
+  * 04246039483
+* Corporacion de Servicios Medicos Carzulmed CA: 
+  * 02613277299
+  * 04160161256
+* Instamed: 02617430087
+* Inversiones Médicas Marasalud CA:
+  * 02613273717
+  * 04166641402
+  * 04268603460
+* Metro - Med:
+  * 02614175430
+  * 02614175431
+  * 04164115390
+  * 04246735684
+* Seamica: 
+  * 04246681948
+  * 04246681948
+* Sis Jose Gregorio Hernandez CA: 
+  * 02614192008
+  * 04146110739
+* Summa Emergencia: 
+  * 02617934556
+  * 02617116352
+  * 04146491533
+* Ami Atención Médica Inmediata: 02614177678
+* Atecsalud Asesoría Técnica A La Salud: 02617517153
+
+#### Clínicas privadas
 
 * Clinica Perez Pernalete(Esquina Av. 9 y 8B, Cecilio Acosta, Maracaibo):
   * 02617975165
@@ -248,5 +284,9 @@ del trato o negociaciones entre las partes.
 * Medicsemka: 04246271157
 * Nitrox: 04124700636
 * Oxígeno Zuliano C.A. OXIZULCA: 04129695278
-
+* Pologas CA: 
+  * 02617232976
+  * 02617232920
+  * 04146308455
+* 
 
